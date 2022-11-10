@@ -1,5 +1,7 @@
 # boletin8
 
+Aviso en Discord
+
 [Un enlace un documento en el repositorio](src/Funciones.java)
 
 ![Hallowin](imagen/yoda.jpeg)
@@ -13,5 +15,4 @@ graph TD;
     id1-->|no|E;
     id1-->|no|F;
     
-
 ```
